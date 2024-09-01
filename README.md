@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul saini
-- 👀 I’m working on full stack web development.
+- 👀 I’m a full stack web developer.
 - 🌱 I’m currently learning ...AI and Machine Learning.
 - 💞️ I’m looking to collaborate on ...web dev projects.
 - 📫 gmail:rahulparshant2004@gmail.com
